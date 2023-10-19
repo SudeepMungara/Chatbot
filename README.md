@@ -3,6 +3,7 @@ Libraries Used:
 
 - Open AI
 - Chainlit
+- Faiss
 - Langchain
 
 Project Motivation:

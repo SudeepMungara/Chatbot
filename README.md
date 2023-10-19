@@ -7,7 +7,7 @@ Libraries Used:
 
 Project Motivation:
 
-To create a chatbot to interact with text files and pdf's
+- To create a chatbot to interact with text files and pdf's
 
 Requirements:
 
